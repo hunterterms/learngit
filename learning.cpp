@@ -23,13 +23,6 @@ int palindrome(){
 
 }
 
-
-//void Vector() {
-  //  vector<int> v;
-    //v.push_back (1);
-    //v.emplace_back (1,2);
-//}
-
 int main() {
     palindrome();
     //testing git
