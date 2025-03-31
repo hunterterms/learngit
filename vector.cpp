@@ -19,5 +19,8 @@ int main() {
     cin >> n;
     int i = 1;
     test(i, n);
+
+    string s ="test";
+    cout << s.size(s);
     return 0;
 }
