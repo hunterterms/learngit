@@ -1,7 +1,15 @@
 #include <iostream>
 using namespace std;
 
-//precompute -> fetch
+/*
+precompute -> fetch
+unordered map
+map<int, int> mpp;
+    key^(number), value^(frequency)
+
+for(auto it : mpp) {
+cout << it.first << "->" << it.second << endl;}
+*/
 int main() {
     string s;
     cin >> s;
